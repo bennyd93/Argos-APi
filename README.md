@@ -6,6 +6,7 @@ Please run in Chrome browser, have not been able to get other browsers working p
 To Get the data from the API's please use CORS extension for Chrome browser
 
 functionality
+
 get json data from Hot UK Deals
 
 Gets Authorisation from Tesco API
