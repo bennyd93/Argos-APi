@@ -39,7 +39,7 @@ var data = [];
 
 $.ajax({
 type: 'GET',
-url: 'https://secure.techfortesco.com/tescolabsapi/restservice.aspx?command=LOGIN&email=benisgr8@hotmail.co.uk&password=BENNYd93&developerkey=A7K0vntoMZFL45EC5r6B&applicationkey=ABC3876734E3E04E8FCE',
+url: 'https://secure.techfortesco.com/tescolabsapi/restservice.aspx?command=LOGIN&email=xxxxxxxxxxxxxxxx&password=xxxxxxxxxxxxxxx&developerkey=xxxxxxxxxxxxxxxxxxxxx&applicationkey=xxxxxxxxxxxxxxxxxxxxxx',
 success: function (object1) 
 
 {
