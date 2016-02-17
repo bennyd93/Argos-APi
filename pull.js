@@ -4,7 +4,7 @@ var items = [];
 
 $.ajax({
 type: 'GET',
-url: "http://api.hotukdeals.com/rest_api/v2/?key=30e239c6392165edc19ba1b3b40d8d35&output=json&merchant=Argos&results_per_page=10",
+url: "http://api.hotukdeals.com/rest_api/v2/?key=xxxxxxxxxxxxxxxxxxxxxxxxxxx&output=json&merchant=Argos&results_per_page=10",
 success: function (object) 
 
 {
